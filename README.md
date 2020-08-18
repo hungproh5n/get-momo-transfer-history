@@ -17,7 +17,7 @@
     <br />
     <br />
     <br />
-    <a href="#">Xem demo</a>
+    <a href="https://youtu.be/qj46MMKcFd8" target="_blank">Xem demo</a>
     ·
     <a href="https://facebook.com/binh27112004">Báo lỗi</a>
     ·
@@ -28,7 +28,7 @@
 
 ## Thông tin về mã nguồn
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://youtu.be/qj46MMKcFd8)
 
 Đây là mã nguồn được viết với thành viên thuộc KB2A Team với mục đích giúp bạn lấy được lịch sử giao dịch momo của mình từ đó có thể dễ dàng tích hợp vào phương thức thanh toán cho website của bạn.
 
@@ -38,7 +38,7 @@ B1: Clone project. <br>
 B2: Config lại email và password. <br>
 B3: Sử dụng.
 
-_Để biết thêm thông tin vui lòng xem [tại đây](https://example.com)_
+_Để biết thêm thông tin vui lòng xem [tại đây](https://youtu.be/qj46MMKcFd8)_
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/BinhLe2711/get-momo-transfer-history.svg?style=flat-square
