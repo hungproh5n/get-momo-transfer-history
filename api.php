@@ -1,6 +1,6 @@
 <?php
-    $username = 'binh27112004@gmail.com'; //Your email
-    $password = '27112004'; //Your password
+    $username = ''; //Your email
+    $password = ''; //Your password
 
     if(!isset($_GET['code'])){
         echo json_encode([
