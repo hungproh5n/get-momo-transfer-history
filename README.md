@@ -6,7 +6,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="#">
+  <a href="https://youtu.be/qj46MMKcFd8" target="_blank" >
     <img src="https://touchcinema.com/storage/01-2019/unnamed.jpg" width="100" height="100" alt="Logo">
   </a>
 
@@ -19,9 +19,9 @@
     <br />
     <a href="https://youtu.be/qj46MMKcFd8" target="_blank">Xem demo</a>
     ·
-    <a href="https://facebook.com/binh27112004">Báo lỗi</a>
+    <a href="https://facebook.com/binh27112004" target="_blank" >Báo lỗi</a>
     ·
-    <a href="https://facebook.com/binh27112004">Đề nghị thêm tính năng</a>
+    <a href="https://facebook.com/binh27112004" target="_blank" >Đề nghị thêm tính năng</a>
   </p>
 </p>
 
