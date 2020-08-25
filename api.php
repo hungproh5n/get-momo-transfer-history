@@ -70,3 +70,4 @@
         imap_close($connection);
     }
 ?>
+.
